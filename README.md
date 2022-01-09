@@ -1,7 +1,8 @@
 # Content-Based-Movie-Recommender-System
 ## This model relies on the similarity of the items being recommended.
-## A content based recommender works with data that the user provides, either explicitly movie ratings for the MovieLens dataset. Based on that data, a user profile vector is generated, which is then used to make suggestions to the user.
-## As the user provides more inputs or takes actions on the recommendations, the weighted average vector of user becomes more accurate thus giving more accurate recommendations when data feeded is more.
+#### (I have used Pandas and Numpy. However others may also use different libraries)
+### A content based recommender works with data that the user provides, either explicitly movie ratings for the MovieLens dataset. Based on that data, a user profile vector is generated, which is then used to make suggestions to the user.
+### As the user provides more inputs or takes actions on the recommendations, the weighted average vector of user becomes more accurate thus giving more accurate recommendations when data feeded is more.
 ### Advantages : 
 #### Learns user's preferences
 #### Highly personalized for the user
